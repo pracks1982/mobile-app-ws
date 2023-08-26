@@ -1,2 +1,3 @@
 # firstgitrepo
-its the first git repo
+This project is for Spring microservices practice and to make full distributed application
+
